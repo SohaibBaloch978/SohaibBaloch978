@@ -1,67 +1,91 @@
-👋 Hello, I’m **Sohaib Baloch**  
-🔒 **Cybersecurity Enthusiast** | 🌐 **Aspiring Blockchain Developer** | 💡 **Innovative Problem Solver**
+<h1 align="center">👋 Hello, I’m Sohaib Baloch</h1>
+
+<p align="center">
+🔒 <strong>Cybersecurity Enthusiast</strong> | 🌐 <strong>Aspiring Blockchain Developer</strong> | 💡 <strong>Problem Solver</strong>  
+</p>
 
 ---
 
-### 🚀 **About Me**
-> *"Technology thrives on innovation, but security ensures its sustainability."*
-
-🎓 Cybersecurity Undergraduate @ **Air University, Islamabad**  
-💻 Passionate about ethical hacking, SOC analysis, and secure application development  
-🛠️ Building solutions with **Python, C#, Assembly**, and exploring **Blockchain/AI-driven security**  
-🌐 Redefining security standards through emerging technologies  
+### 🌟 About Me
+🎓 I'm a Cybersecurity undergraduate at <strong>Air University, Islamabad</strong>, passionate about secure digital environments and emerging technologies.  
+💻 Focused on **ethical hacking**, **SOC analysis**, and developing **secure applications**.  
+🌐 Exploring Blockchain & AI-driven cybersecurity to redefine digital defense.  
+🧠 "Technology thrives on innovation, but security ensures its sustainability."
 
 ---
 
-### 🛠️ **Technical Arsenal**
+### 🛠️ Technical Skills
 
-#### **Cybersecurity Expertise**
-![Security](https://img.shields.io/badge/-Security%20Monitoring-007ACC) ![Incident Response](https://img.shields.io/badge/-Incident%20Response-green) ![Vulnerability](https://img.shields.io/badge/-Vulnerability%20Management-red)  
-**Tools:**  
-`Kali Linux` `Nmap` `Metasploit` `Wireshark` `Maltego` `Aircrack-ng`  
+#### 🔐 Cybersecurity Expertise
+`Security Monitoring` • `Incident Response` • `Phishing Analysis` • `Vulnerability Management` • `Data Protection`
 
-#### **Programming & Development**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Bash](https://img.shields.io/badge/-Bash-4EAA25)  
-**Frameworks:** `.NET` `Selenium` `Overleaf LATEX`
+#### 💻 Programming
+`Python` • `C++` • `C#` • `Bash`
 
----
-
-### 📜 **Certifications & Achievements**
-| **Certification** | **Issuer** | **Year** |
-|--------------------|------------|----------|
-| MasterCard Forge Cybersecurity Job Simulation | Forage | 2024 |
-| Ethical Hacking Essentials (EHE) | EC-Council | 2023 |
-| Junior Cyber Security Analyst Career Path | Cisco | 2023 |
-| Penetration Testing Web Hacking | eHunar | 2023 |
+#### 🧰 Tools & Technologies
+- **Pentesting**: Kali Linux, Nmap, Metasploit, Burp Suite, Nessus  
+- **Threat Intelligence**: Maltego, SpiderFoot, Shodan, OSINT Framework  
+- **Network Analysis**: Wireshark, Snort, Splunk  
+- **Cryptography**: Aircrack-ng, John the Ripper, OpenVAS  
+- **Others**: Selenium, Wix, Overleaf (LaTeX)
 
 ---
 
-### 🔥 **Featured Projects**
-
-#### **🔒 GUI-Based Firewall Tutor (C#)**  
-✅ Real-time network traffic monitoring  
-✅ User-defined rule management & IP validation  
-✅ Optimized for scalability with unit testing  
-
-#### **🔐 Client-Server AES Encryption (Python)**  
-✅ End-to-end encrypted communication  
-✅ Traffic analysis via Wireshark verification  
-
-#### **📂 Category-Based Doubly Linked List**  
-✅ Hierarchical inventory management system  
-✅ Advanced search & data persistence  
+### 🏆 Certifications & Achievements
+- **MasterCard Forge Cybersecurity Job Simulation** (Intern, July 2024)  
+- **Introduction to Cyber Security** – Cisco Networking Academy  
+- **Ethical Hacking Essentials (EHE)** – EC-Council  
+- **Dark Web, Anonymity, Cryptocurrency** – EC-Council  
+- **Practical Threat Intelligence & OT Security** – EC-Council  
+- **Junior Cyber Security Analyst** – Cisco  
+- **Penetration Testing Web Hacking** – eHunar.org
 
 ---
 
-### 📊 **GitHub Stats**
-![Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 🚀 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=nightowl)
+#### 🔐 GUI-Based Firewall Tutor (C# .NET)
+A Windows Forms app to monitor/manage network traffic with:
+- Custom rule creation
+- Dynamic form visibility
+- Packet validation and unit testing
+
+#### 🔐 Encrypted Client-Server Communication (Python)
+- Built a secure messaging system with AES encryption
+- Verified encryption via Wireshark packet analysis
+
+#### 🔐 Category-Based Inventory using Doubly Linked Lists
+- Hierarchical system for managing categorized items
+- Includes search, save-to-file, and modular structure
 
 ---
 
-### 🌟 **Let's Collaborate!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-sohaib-rafiq-624703296/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:sohaibrafiqlound@gmail.com)
+### 🤝 Non-Technical Strengths
+- **Communication**: Clear articulation of technical concepts  
+- **Teamwork**: Effective collaboration on projects  
+- **Problem Solving**: Analytical mindset for rapid debugging  
+- **Time Management**: Consistently meet deadlines  
+- **Adaptability**: Fast learner of new tools/technologies
 
-**Open to revolutionizing cybersecurity through blockchain, AI, and cutting-edge cryptography!** 🚀
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-sohaib-rafiq-624703296/)
+- 📧 sohaibrafiqlound@gmail.com
+
+---
+
+### 🎯 Vision Statement
+I aspire to lead innovation in cybersecurity by integrating blockchain, cryptography, and AI to build trusted digital ecosystems.  
+Let's secure the future—one byte at a time.
+
